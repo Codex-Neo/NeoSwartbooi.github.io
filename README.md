@@ -12,11 +12,6 @@ Proficient in IT support, project management, and engineering department support
 
 ---
 
-## 🎯 Career Objective
-To build a career as a Network Engineer by gaining hands-on experience in enterprise networking and cloud technologies, while developing leadership and business skills to establish a future networking consultancy and training academy.
-
----
-
 ## 💼 Experience
 
 **Administrative / IT Support**  
@@ -76,6 +71,11 @@ Belhar High School *(Completed: Jan 2020)*
 - Built a personal portfolio website to showcase technical skills and projects  
 - Organized content to highlight networking and development capabilities  
 - Demonstrates ability to present technical work effectively  
+
+---
+
+## 🎯 Career Objective
+To build a career as a Network Engineer by gaining hands-on experience in enterprise networking and cloud technologies, while developing leadership and business skills to establish a future networking consultancy and training academy.
 
 ---
 
