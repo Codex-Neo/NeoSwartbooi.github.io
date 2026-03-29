@@ -90,3 +90,17 @@ Cape Peninsula University of Technology
 De Vries Contractors Pty Ltd  
 📧 Admin@devriescontractors.co.za  
 📞 083 503 7216  
+
+---
+
+## 🎤 Mock Interview Experience
+
+This mock interview demonstrates my ability to communicate technical concepts, handle behavioural questions, and respond under pressure in a professional setting. It includes real interview-style questions focused on problem-solving, teamwork, and decision-making.
+
+- Demonstrates communication and confidence in a professional setting  
+- Covers both technical and behavioural interview questions  
+- Reflects my ability to structure clear and relevant answers  
+
+### 🎥 Watch My Mock Interview
+[![Watch My Mock Interview] https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=drive_linkhttps://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=drive_link
+
