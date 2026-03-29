@@ -102,5 +102,5 @@ This mock interview demonstrates my ability to communicate technical concepts, h
 - Reflects my ability to structure clear and relevant answers  
 
 ### 🎥 Watch My Mock Interview
-[![Watch My Mock Interview] https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=drive_linkhttps://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=drive_link
+[![Watch My Mock Interview] (https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=sharing)
 
