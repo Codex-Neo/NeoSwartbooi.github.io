@@ -93,6 +93,22 @@ De Vries Contractors Pty Ltd
 
 ---
 
+## 🧠 Reflection on Coding in Markdown (STAR Method)
+
+**Situation:**  
+I was required to create a professional CV using Markdown and publish it through GitHub as part of my portfolio.
+
+**Task:**  
+My task was to learn Markdown syntax and apply it to structure a clean, readable, and professional CV.
+
+**Action:**  
+I used headings, lists, and formatting techniques to organize my CV content clearly. I also practiced embedding links and structuring sections properly to improve readability.
+
+**Result:**  
+I successfully created a well-structured CV using Markdown. This improved my understanding of documentation practices and version control, which are important in real-world development environments.
+
+---
+
 ## 🎤 Mock Interview Experience
 
 This mock interview demonstrates my ability to communicate technical concepts, handle behavioural questions, and respond under pressure in a professional setting. It includes real interview-style questions focused on problem-solving, teamwork, and decision-making.
@@ -103,4 +119,45 @@ This mock interview demonstrates my ability to communicate technical concepts, h
 
 ### 🎥 Watch My Mock Interview
 [![Watch My Mock Interview] (https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=sharing)
+
+---
+
+## 🧠 Reflection on Mock Interview (STAR Method)
+
+**Situation:**  
+I participated in a mock interview to simulate a real job interview environment.
+
+**Task:**  
+My goal was to answer both technical and behavioural questions clearly and professionally.
+
+**Action:**  
+I prepared by reviewing common interview questions and practiced structuring my answers. During the interview, I focused on clear communication, confidence, and staying calm under pressure.
+
+**Result:**  
+The experience improved my confidence and highlighted areas where I can improve, such as refining technical explanations and reducing nervousness.
+
+---
+
+## 🌐 Published on GitHub Pages
+
+My portfolio is deployed using GitHub Pages, allowing it to be publicly accessible online.
+
+---
+
+## 🧠 Reflection on GitHub Pages (STAR Method)
+
+**Situation:**  
+I needed to publish my portfolio online to make it accessible and meet project requirements.
+
+**Task:**  
+My task was to deploy my Markdown CV and project content using GitHub Pages.
+
+**Action:**  
+I created a repository, added my Markdown files, and configured GitHub Pages for deployment. I ensured everything displayed correctly and tested the live site.
+
+**Result:**  
+I successfully deployed my portfolio website. This gave me practical experience with hosting, version control, and presenting my work professionally online.
+
+---
+
 
