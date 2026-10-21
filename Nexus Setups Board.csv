@@ -1,0 +1,341 @@
+﻿"Card Name","Card Description","Labels","Members","Due Date","Start Date","List Name"
+"Define Business Vision","Create a compelling vision statement that guides the company future direction.
+
+User Story:
+As a founder, I want to define a clear business vision so that Nexus Setups has long-term direction.","Business Planning (green),Strategy (yellow)","","","","Sprint 1: Business Planning"
+"Define Business Mission","Create a mission statement that articulates Nexus Setups core purpose.
+
+User Story:
+As a founder, I want to establish the company mission so that employees understand the company purpose.","Business Planning (green),Strategy (yellow)","","","","Sprint 1: Business Planning"
+"Create Business Model Canvas","Map out the complete business model including value proposition and revenue streams.
+
+User Story:
+As a founder, I want to complete a Business Model Canvas so that I understand how the business creates value.","Business Planning (green),Strategy (yellow)","","","","Sprint 1: Business Planning"
+"Conduct Competitor Analysis","Research and analyze direct and indirect competitors in the creator post-production space.
+
+User Story:
+As a founder, I want to analyse competitors so that I can identify opportunities in the market.","Strategy (yellow),Research (blue)","","","","Sprint 1: Business Planning"
+"Perform SWOT Analysis","Analyse Nexus Setups Strengths, Weaknesses, Opportunities, and Threats.
+
+User Story:
+As a founder, I want to perform a SWOT analysis so that strategic decisions are informed.","Strategy (yellow),Planning (purple)","","","","Sprint 1: Business Planning"
+"Define Target Audience","Clearly define the ideal client profile for Nexus Setups.
+
+User Story:
+As a founder, I want to define the target audience so that marketing reaches the correct customers.","Strategy (yellow),Marketing (red)","","","","Sprint 1: Business Planning"
+"Define Value Proposition","Articulate the unique value Nexus Setups brings to creators and brands.
+
+User Story:
+As a founder, I want to define a value proposition so that clients understand why they should choose Nexus Setups.","Strategy (yellow),Marketing (red)","","","","Sprint 1: Business Planning"
+"Define Revenue Model","Establish how Nexus Setups will generate revenue through tiered service offerings.
+
+User Story:
+As a founder, I want to determine revenue streams so that the business is financially sustainable.","Strategy (yellow),Finance (orange)","","","","Sprint 1: Business Planning"
+"Establish Pricing Strategy","Set pricing for all service tiers and individual offerings.
+
+User Story:
+As a founder, I want to establish pricing so that services remain competitive and profitable.","Strategy (yellow),Finance (orange)","","","","Sprint 1: Business Planning"
+"Define Success Metrics","Establish key performance indicators across all business functions.
+
+User Story:
+As a founder, I want to define KPIs so that business performance can be measured.","Strategy (yellow),Analytics (green)","","","","Sprint 1: Business Planning"
+"Register Nexus Setups as a Business","Complete all legal requirements to establish Nexus Setups as a legal entity.
+
+User Story:
+As a founder, I want to register Nexus Setups so that it can legally conduct business.","Legal (red),Compliance (green)","","","","Sprint 2: Company Formation"
+"Register for Tax (SARS)","Complete all tax registrations with SARS.
+
+User Story:
+As a founder, I want to register the business for tax so that it complies with South African legislation.","Finance (orange),Legal (red)","","","","Sprint 2: Company Formation"
+"Open Business Bank Account","Open a dedicated business bank account for Nexus Setups.
+
+User Story:
+As a founder, I want a business bank account so that company finances are managed professionally.","Finance (orange)","","","","Sprint 2: Company Formation"
+"Secure Business Insurance","Obtain appropriate insurance coverage for the business.
+
+User Story:
+As a founder, I want to secure business insurance so that the company is protected.","Legal (red),Risk (purple)","","","","Sprint 2: Company Formation"
+"Register Domain & Hosting","Secure the nexus-setups.com domain and set up hosting.
+
+User Story:
+As a founder, I want to secure the domain and hosting so that the company website can be deployed.","Infrastructure (orange)","","","","Sprint 2: Company Formation"
+"Configure Business Email","Set up professional email addresses using the company domain.
+
+User Story:
+As a founder, I want professional business email addresses so that communication with clients is trustworthy.","Infrastructure (orange)","","","","Sprint 2: Company Formation"
+"Set Up Accounting Software","Select and configure accounting software for the business.
+
+User Story:
+As a founder, I want to set up accounting software so that finances are managed professionally.","Finance (orange)","","","","Sprint 2: Company Formation"
+"Design Company Logo","Create a logo that represents Nexus Setups brand of professional post-production services.
+
+User Story:
+As a founder, I want a professional logo so that Nexus Setups has a recognizable brand identity.","Branding (yellow),Design (orange)","","","","Sprint 3: Branding"
+"Create Brand Guidelines","Document brand guidelines including logo usage, colors, typography, and voice.
+
+User Story:
+As a founder, I want brand guidelines so that all marketing materials are consistent.","Branding (yellow),Design (orange)","","","","Sprint 3: Branding"
+"Define Brand Colour Palette","Define the official colour palette for Nexus Setups.
+
+User Story:
+As a designer, I want a defined colour palette so that all designs are consistent.","Branding (yellow),Design (orange)","","","","Sprint 3: Branding"
+"Define Brand Typography","Establish the official typography system for Nexus Setups.
+
+User Story:
+As a designer, I want defined typography so that all content has consistent type.","Branding (yellow),Design (orange)","","","","Sprint 3: Branding"
+"Design Business Cards","Design and order business cards for the team.
+
+User Story:
+As a founder, I want professional business cards so that I can network effectively.","Design (orange)","","","","Sprint 3: Branding"
+"Create Email Signature","Design and implement branded email signatures for all team members.
+
+User Story:
+As a team member, I want a professional email signature so that all communications are branded.","Design (orange),Branding (yellow)","","","","Sprint 3: Branding"
+"Design Social Media Branding","Create branded social media assets for all platforms.
+
+User Story:
+As a marketing manager, I want social media branding so that all channels are consistent.","Design (orange),Marketing (red)","","","","Sprint 3: Branding"
+"Design Homepage","Create a modern homepage that communicates the Nexus Setups value proposition.
+
+User Story:
+As a visitor, I want to understand what Nexus Setups offers so that I know if it meets my needs.","Design (orange),Website (pink)","","","","Sprint 4: Website"
+"Create About Page","Develop an About page introducing Nexus Setups.
+
+User Story:
+As a visitor, I want to learn about the company so that I can trust the brand.","Website (pink),Content (red)","","","","Sprint 4: Website"
+"Build Services Page","Showcase all services offered by Nexus Setups.
+
+User Story:
+As a visitor, I want to browse available services so that I can choose the right package.","Website (pink),Development (purple)","","","","Sprint 4: Website"
+"Build Portfolio Page","Showcase Nexus Setups previous work.
+
+User Story:
+As a visitor, I want to view previous projects so that I can evaluate quality.","Website (pink),Development (purple)","","","","Sprint 4: Website"
+"Build Pricing Page","Display pricing packages for all service tiers.
+
+User Story:
+As a visitor, I want transparent pricing so that I can compare packages.","Website (pink),Development (purple)","","","","Sprint 4: Website"
+"Build Contact Page","Create a contact page with enquiry forms.
+
+User Story:
+As a visitor, I want to contact the business so that I can request services.","Website (pink),Development (purple)","","","","Sprint 4: Website"
+"Build FAQ Page","Create an FAQ page with common questions and answers.
+
+User Story:
+As a visitor, I want answers to common questions so that I can make informed decisions.","Website (pink),Content (red)","","","","Sprint 4: Website"
+"Create Blog Section","Build a blog section for content marketing.
+
+User Story:
+As a marketing manager, I want a blog so that I can improve SEO and educate clients.","Website (pink),Marketing (red)","","","","Sprint 4: Website"
+"Implement SEO","Optimize the entire website for search engines.
+
+User Story:
+As a marketing manager, I want the website optimized for search engines so that more users find Nexus Setups.","Marketing (red),SEO (lime)","","","","Sprint 4: Website"
+"Ensure Website Accessibility","Meet WCAG accessibility standards.
+
+User Story:
+As a visitor, I want an accessible website so that everyone can use it.","Website (pink),QA (sky)","","","","Sprint 4: Website"
+"Optimize Website Performance","Optimize website performance for fast loading.
+
+User Story:
+As a visitor, I want pages to load quickly so that browsing feels responsive.","Website (pink),Performance (blue)","","","","Sprint 4: Website"
+"Implement Analytics","Set up website analytics tracking.
+
+User Story:
+As a marketing manager, I want analytics so that I can measure website performance.","Marketing (red),Analytics (green)","","","","Sprint 4: Website"
+"Implement User Registration","Build a secure registration system for new users.
+
+User Story:
+As a prospective client, I want to create an account so that I can access Nexus Setups services.","Authentication (green),Security (orange)","","","","Sprint 5: Authentication"
+"Implement Email Verification","Build email verification system.
+
+User Story:
+As a client, I want to verify my email so that my account is secure.","Authentication (green),Security (orange)","","","","Sprint 5: Authentication"
+"Implement User Login","Build secure login system.
+
+User Story:
+As a registered user, I want to log in so that I can access my dashboard.","Authentication (green),Security (orange)","","","","Sprint 5: Authentication"
+"Implement Password Reset","Build password recovery system.
+
+User Story:
+As a user, I want to reset my password so that I can regain access.","Authentication (green),Security (orange)","","","","Sprint 5: Authentication"
+"Add Google Sign-In","Integrate Google OAuth authentication.
+
+User Story:
+As a client, I want to sign in with Google so that I can register quickly.","Authentication (green),Integration (yellow)","","","","Sprint 5: Authentication"
+"Add Apple Sign-In","Integrate Apple Sign-In authentication.
+
+User Story:
+As a client, I want to sign in with Apple so that I can register quickly.","Authentication (green),Integration (yellow)","","","","Sprint 5: Authentication"
+"Implement MFA","Add multi-factor authentication support.
+
+User Story:
+As a client, I want MFA so that my account is more secure.","Security (orange)","","","","Sprint 5: Authentication"
+"Implement Session Management","Build session management features.
+
+User Story:
+As a user, I want to view and revoke sessions so that I can secure my account.","Security (orange)","","","","Sprint 5: Authentication"
+"Implement Role Management","Build role-based access control system.
+
+User Story:
+As an administrator, I want to assign roles so that users have appropriate permissions.","Security (orange),Admin (black)","","","","Sprint 5: Authentication"
+"Create Client Dashboard","Build a centralized dashboard displaying active projects and recent activity.
+
+User Story:
+As a client, I want to view all my projects from one dashboard so that I can quickly monitor progress.","Client (blue),Portal (pink)","","","","Sprint 6: Client Portal"
+"Build Project Overview","Provide a detailed overview of each project.
+
+User Story:
+As a client, I want to view project details so that I understand the current status.","Portal (pink),Projects (black)","","","","Sprint 6: Client Portal"
+"Create Notifications Center","Centralize user notifications.
+
+User Story:
+As a client, I want to receive notifications so that I stay informed about my projects.","Portal (pink),Notifications (lime)","","","","Sprint 6: Client Portal"
+"Implement File Downloads","Allow secure downloads of completed deliverables.
+
+User Story:
+As a client, I want to download my completed files so that I can use them immediately.","Portal (pink),Files (sky)","","","","Sprint 6: Client Portal"
+"Create Activity Feed","Display recent account activity.
+
+User Story:
+As a client, I want to see recent activity so that I know what has changed.","Portal (pink),Activity (red)","","","","Sprint 6: Client Portal"
+"Implement Profile Management","Allow users to manage personal information.
+
+User Story:
+As a client, I want to edit my profile so that my information remains up to date.","Portal (pink),User Management (green)","","","","Sprint 6: Client Portal"
+"Create Billing Overview","Display invoices and payment history.
+
+User Story:
+As a client, I want to view my billing history so that I can track my payments.","Portal (pink),Billing (purple)","","","","Sprint 6: Client Portal"
+"Submit New Project","Allow clients to submit new editing projects.
+
+User Story:
+As a client, I want to submit a new project so that the Nexus Setups team can begin work.","Projects (black),Management (orange)","","","","Sprint 7: Project Management"
+"Upload Project Assets","Enable secure file uploads.
+
+User Story:
+As a client, I want to upload project assets so that editors have everything they need.","Files (sky),Management (orange)","","","","Sprint 7: Project Management"
+"Track Project Status","Display live project progress.
+
+User Story:
+As a client, I want to monitor project progress so that I know what stage it is in.","Projects (black),Tracking (purple)","","","","Sprint 7: Project Management"
+"Assign Editors","Assign work to editors.
+
+User Story:
+As a project manager, I want to assign editors so that work is distributed efficiently.","Management (orange)","","","","Sprint 7: Project Management"
+"Manage Internal Tasks","Manage internal production tasks.
+
+User Story:
+As a project manager, I want to assign internal tasks so that production stays organized.","Management (orange),Tasks (red)","","","","Sprint 7: Project Management"
+"Manage Deadlines","Track project deadlines.
+
+User Story:
+As a project manager, I want to manage deadlines so that projects are delivered on time.","Management (orange),Deadlines (yellow)","","","","Sprint 7: Project Management"
+"Define Editing Workflow","Establish standard editing procedures and quality standards.
+
+User Story:
+As an editor, I want a clear workflow so that I can deliver high-quality content efficiently.","Editing (sky),Workflow (black)","","","","Sprint 8: Editing Workflow"
+"Implement Revision System","Build a system for managing revision requests.
+
+User Story:
+As a client, I want to request revisions so that deliverables meet my expectations.","Editing (sky),Revisions (pink)","","","","Sprint 8: Editing Workflow"
+"Implement Quality Assurance","Review deliverables before release.
+
+User Story:
+As an editor, I want QA checks so that only high-quality work reaches clients.","QA (sky),Quality (lime)","","","","Sprint 8: Editing Workflow"
+"Deliver Completed Projects","Deliver completed projects.
+
+User Story:
+As a client, I want to receive completed deliverables so that I can use them immediately.","Projects (black),Delivery (blue)","","","","Sprint 8: Editing Workflow"
+"Track Project Analytics","Track project metrics.
+
+User Story:
+As a manager, I want analytics so that I can monitor productivity and project performance.","Management (orange),Analytics (green)","","","","Sprint 8: Editing Workflow"
+"Implement Client Communication","Build a comprehensive communication system.
+
+User Story:
+As a client, I want clear communication so that I stay informed about my projects.","Communication (green)","","","","Sprint 9: Communication"
+"Create Communication Guidelines","Document communication protocols and standards.
+
+User Story:
+As a project manager, I want communication guidelines so that the team communicates consistently.","Communication (green),Guidelines (yellow)","","","","Sprint 9: Communication"
+"Implement Revision Requests","Build revision request system.
+
+User Story:
+As a client, I want to request revisions so that deliverables meet my expectations.","Communication (green),Revisions (pink)","","","","Sprint 9: Communication"
+"Create Email Templates","Design and implement email templates for common communications.
+
+User Story:
+As a team member, I want email templates so that I can communicate consistently.","Communication (green),Templates (orange)","","","","Sprint 9: Communication"
+"Implement Invoicing System","Build a comprehensive invoicing and billing system.
+
+User Story:
+As a client, I want to receive invoices so that I can track my payments.","Billing (purple),Payments (purple)","","","","Sprint 10: Payments"
+"Implement Quote System","Build a system for generating and managing quotes.
+
+User Story:
+As a client, I want to request a quote so that I can understand costs upfront.","Payments (purple),Quotes (blue)","","","","Sprint 10: Payments"
+"Set Up Payment Gateway","Integrate secure payment gateway.
+
+User Story:
+As a client, I want to make payments online so that I can pay invoices easily.","Integration (yellow),Payments (purple)","","","","Sprint 10: Payments"
+"Create Payment Dashboard","Build payment tracking dashboard.
+
+User Story:
+As a client, I want to view my payment history so that I can track my finances.","Payments (purple),Dashboard (red)","","","","Sprint 10: Payments"
+"Develop SEO Strategy","Develop a comprehensive SEO strategy.
+
+User Story:
+As a marketing manager, I want strong SEO so that potential clients can discover Nexus Setups organically.","Marketing (red),SEO (lime)","","","","Sprint 11: Marketing"
+"Create Content Marketing Strategy","Develop a comprehensive content marketing plan.
+
+User Story:
+As a marketing manager, I want a content strategy so that I can attract and educate clients.","Marketing (red),Content (red)","","","","Sprint 11: Marketing"
+"Launch Social Media Campaigns","Launch social media marketing campaigns.
+
+User Story:
+As a marketing manager, I want social campaigns so that I can attract new clients.","Marketing (red),Social Media (pink)","","","","Sprint 11: Marketing"
+"Implement Lead Generation","Implement lead capture and management.
+
+User Story:
+As a business owner, I want qualified leads so that the sales pipeline grows.","Marketing (red),Sales (lime)","","","","Sprint 11: Marketing"
+"Create Email Marketing","Build an email marketing funnel.
+
+User Story:
+As a marketer, I want email campaigns so that I can nurture leads.","Marketing (red),Email (sky)","","","","Sprint 11: Marketing"
+"Implement User Management","Build comprehensive user management features.
+
+User Story:
+As an administrator, I want to manage users so that I can control access to the system.","Management (orange),Admin (black)","","","","Sprint 12: Administration"
+"Implement Analytics Dashboard","Build a comprehensive analytics dashboard.
+
+User Story:
+As a manager, I want analytics so that I can monitor business performance.","Management (orange),Analytics (green)","","","","Sprint 12: Administration"
+"Implement Audit Logging","Build comprehensive audit logging system.
+
+User Story:
+As an administrator, I want audit logs so that I can track system activity.","Security (orange),Admin (black)","","","","Sprint 12: Administration"
+"Create System Settings","Build system configuration management.
+
+User Story:
+As an administrator, I want system settings so that I can configure the platform.","Admin (black),Settings (black)","","","","Sprint 12: Administration"
+"Conduct Beta Testing","Run a comprehensive beta testing program.
+
+User Story:
+As a founder, I want to conduct beta testing so that I can validate the service before launch.","Launch (orange),Testing (purple)","","","","Sprint 13: Launch"
+"Prepare for Public Launch","Complete all pre-launch activities.
+
+User Story:
+As a founder, I want to prepare for launch so that Nexus Setups launches successfully.","Marketing (red),Launch (orange)","","","","Sprint 13: Launch"
+"Set Up Monitoring","Implement monitoring and alerting systems.
+
+User Story:
+As a founder, I want to monitor system health so that I can respond to issues quickly.","DevOps (green),Monitoring (red)","","","","Sprint 13: Launch"
+"Create Documentation","Create comprehensive user and technical documentation.
+
+User Story:
+As a user, I want documentation so that I can understand how to use the platform.","Documentation (yellow)","","","","Sprint 13: Launch"
+"Execute Public Launch","Launch the platform to the public.
+
+User Story:
+As a founder, I want to execute the public launch so that Nexus Setups goes live.","Marketing (red),Launch (orange)","","","","Sprint 13: Launch"
