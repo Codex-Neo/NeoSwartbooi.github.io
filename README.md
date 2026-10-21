@@ -7,12 +7,12 @@ Cape Town, Western Cape, 7805
 
 ---
 
-<h2>Professional Summary</h2>
+<h2 id="professional-summary">Professional Summary</h2>
 Proficient in IT support, project management, and engineering department support. Motivated with strong interpersonal skills and the ability to handle communication scripts and various customer needs professionally.
 
 ---
 
-<h2>Experience</h2>
+<h2 id="experience">Experience</h2>
 
 **Administrative / IT Support**  
 *Labour Logix*  
@@ -55,7 +55,7 @@ Belhar High School *(Completed: Jan 2020)*
 
 ---
 
-<h2>Projects</h2>
+<h2 id="projects">Projects</h2>
 
 **Non-Profit Website Development**  
 - Designed and developed a website for a non-profit initiative  
