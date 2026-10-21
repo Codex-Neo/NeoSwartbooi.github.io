@@ -192,7 +192,7 @@ The team shared responsibility for turning the project requirements into a usabl
 - **Testing and review:** Check the finished pages for usability, consistency, and issues that need attention.
 
 <h3>Reflection</h3>
-A team charter helped establish a shared goal and gave the team a clearer way to organise the website work. Website development involves more than writing code: content, layout, branding, navigation, and reviewing the finished result all affect the user's experience. Clear communication and visible tasks help the team coordinate these different parts of the project.
+The team charter gave the project a shared goal: deliver the Nexus Setups website by 1 October 2026. Across the six-month project, planning, design, development, content, and review all had to work together to produce a complete website. The main lesson is that teamwork and communication are important because a change to one part of the site can affect its overall look and usability.
 
 <h2>2. User Stories and Tasks</h2>
 
@@ -208,7 +208,7 @@ These user stories describe common needs the Nexus Setups website is intended to
 | US06 | As the website owner, I want the finished website to represent Nexus Setups accurately. | Review wording, page content, and presentation against the project purpose. | Published content is relevant to the business and does not contain known placeholder or misleading information. |
 
 <h3>Reflection</h3>
-User stories help explain why a website feature matters to the people using it. Instead of focusing only on creating a page or adding a navigation link, they connect each task to a visitor's need. Acceptance criteria also provide a practical way to review the finished website. In future projects, I would link each user story to its related task and evidence so it is easier to demonstrate how the requirement was met.
+The user stories helped keep the project focused on the people who would visit the Nexus Setups website. They connected practical website work—such as organising information, making navigation clear, and keeping the design consistent—to the visitor's experience. Acceptance criteria also gave the team a way to judge whether the result met the intended need. In a future project, I would link each story to the exact task and evidence so it is easier to show how the requirement was completed.
 
 <h2>3. Product Backlog</h2>
 
@@ -229,7 +229,7 @@ The product backlog groups the main areas of work required for the Nexus Setups 
 The highest priorities were the parts needed to deliver the website's core purpose: clear business information, consistent branding, organised content, and usable navigation. Review and testing help ensure these parts work together as a complete website. Further improvements can be prioritised later based on feedback or issues identified after the website has been delivered.
 
 <h3>Reflection</h3>
-The backlog provides an overview of the work needed to reach the finished website. Prioritising the core content and navigation first helps keep development focused on the visitor's experience. A useful lesson is that completion should be assessed against the agreed requirements, not just the number of tasks finished. In a future project, I would keep the backlog updated and attach screenshots or links as evidence for completed items.
+The product backlog helped organise the work needed to deliver the Nexus Setups website over the six-month period. The core priorities were to establish the website's purpose, create a consistent design, organise its content, and make the site straightforward to navigate. Completing the website on 1 October 2026 gave the project a clear endpoint. In future, I would update backlog priorities as work progresses and attach screenshots or links to show which requirements have been delivered.
 
 <h2>4. Sprint Backlog</h2>
 
@@ -253,7 +253,7 @@ The Nexus Setups website project ran for approximately six months, from 1 April 
 - The completed work can be demonstrated using the website or supporting project evidence.
 
 <h3>Reflection</h3>
-Breaking website development into phases makes a large task easier to plan and review. Planning, design, development, content review, and final checks each contribute to the finished result. The phases above describe the overall workflow and should not be treated as exact sprint dates or a one-to-one reconstruction of the original Trello board. In future work, I would record each sprint goal, completed tasks, blockers, and review outcomes as the sprint happens.
+The timeline shows how the project moved from planning in April 2026 through design, development, and refinement to completion on 1 October 2026. Dividing the work into phases made the overall process easier to understand and showed that a finished website depends on more than development alone. This is an approximate retrospective timeline, rather than a reconstruction of every Trello sprint. Next time, I would record sprint goals, completed tasks, blockers, and review decisions as they happen so the final timeline can be based on exact project records.
 
 <h2>5. Agile Logbook</h2>
 
@@ -277,4 +277,4 @@ The logbook below uses approximate monthly dates to summarise the six-month Nexu
 5. **Use evidence to support claims.** Screenshots, project files, task-board records, and genuine test results help demonstrate what was completed.
 
 <h3>Reflection</h3>
-The Nexus Setups project provided experience in taking a website from planned requirements to a finished online result. The work involved coordinating tasks and considering how structure, content, branding, and usability fit together. One important lesson is that a website should be judged by how well it meets its purpose, not only by whether its pages have been created. For future projects, I would keep more detailed sprint notes and link completed tasks to evidence so the development process and final outcome are easier to demonstrate.
+The six-month Nexus Setups project ended with the website completed on 1 October 2026. Looking back at the work, planning, page structure, branding, content, and refinement all contributed to the final result. The project reinforced that a website needs to be considered as one complete experience, rather than a collection of separate pages. If I worked on a similar project again, I would keep more consistent notes during each sprint and save evidence of completed tasks, decisions, and reviews to make the process easier to track and explain.
