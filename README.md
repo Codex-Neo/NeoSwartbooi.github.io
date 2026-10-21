@@ -287,25 +287,3 @@ This is a retrospective summary based on the project work areas and the completi
 
 ### Reflection
 The project demonstrates the value of organising a broad goal into visible work areas and tracking them across multiple sprints. Because the project includes both technical delivery and business operations, communication and coordination are important. A key lesson is to judge completion against the intended outcome and any dependencies, not just a card's status. The main outstanding dependency is legal work. In future projects, I would keep brief notes after each sprint review, record decisions and blockers when they occur, and link each completed task to evidence.
-
-## Evidence to include
-
-Add genuine evidence to support the sections above:
-- A Trello board screenshot showing the sprint lists.
-- Screenshots of selected cards showing user stories, tasks, and status.
-- Screenshots or links to completed website, branding, or client-workflow outputs.
-- Real sprint notes, meeting notes, review records, or task updates if available.
-- A clear record of the legal work that remains outstanding.
-
-The Trello CSV supports the existence of 13 sprint lists and work across business planning, branding, website development, authentication, client portal, project management, editing, communication, payments, marketing, administration, and launch preparation. It does not by itself establish dates, individual assignments, testing results, or meeting records. Only add those details when supported by actual evidence.
-
-## Assessment 2 checklist
-
-- [x] Agile Team Charter section added
-- [x] User Stories and Tasks section added
-- [x] Product Backlog section added
-- [x] Sprint Backlog section added
-- [x] Agile Logbook section added
-- [ ] Add genuine Trello screenshots or evidence links
-- [ ] Check the published GitHub Pages page after deployment
-- [ ] Submit the single portfolio URL through Blackboard
