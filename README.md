@@ -233,15 +233,17 @@ The backlog provides an overview of the work needed to reach the finished websit
 
 <h2>4. Sprint Backlog</h2>
 
-The sprint backlog represents the main groups of work involved in delivering the website. The grouping below is a high-level summary, not a verified record of the exact cards or tasks completed in each original sprint.
+The Nexus Setups website project ran for approximately six months, from 1 April 2026 to 1 October 2026, when the website was completed. The dated phases below are a retrospective timeline created to fit the overall project period; they should be adjusted if the original Trello board or team records show different dates.
 
-| Work phase | Main activities | Review focus |
-|---|---|---|
-| Requirements and planning | Establish the website's purpose, audience, content needs, and priorities | Is the intended purpose of the website clear? |
-| Design and structure | Plan the page structure, navigation, and visual direction | Can visitors understand the layout and move between sections? |
-| Website development | Build the pages and apply the agreed layout, branding, and content | Does the website reflect the intended design and content? |
-| Content and refinement | Review wording, formatting, links, and consistency across pages | Is the information clear and presented consistently? |
-| Final review and completion | Review the finished website and address identified issues | Does the delivered website meet the agreed project requirements? |
+| Approximate dates | Work phase | Main activities | Review focus |
+|---|---|---|---|
+| 1–30 April 2026 | Requirements and planning | Establish the website's purpose, audience, content needs, and priorities | Is the intended purpose of the website clear? |
+| 1–31 May 2026 | Design and structure | Plan the page structure, navigation, content layout, and visual direction | Can visitors understand the layout and move between sections? |
+| 1–30 June 2026 | Initial website development | Build the main page structure and apply the agreed layout and branding | Does the website reflect the intended design? |
+| 1–31 July 2026 | Feature and content development | Develop the remaining planned sections and add relevant content | Does each section support the website's purpose? |
+| 1–31 August 2026 | Refinement and integration | Review content, layout, navigation, and consistency across pages | Is the information clear and presented consistently? |
+| 1–30 September 2026 | Final review and completion preparation | Resolve remaining issues, review the overall experience, and prepare the finished website | Does the website meet the agreed project requirements? |
+| 1 October 2026 | Project completion | Confirm the website as the completed project deliverable | Is the finished website ready to present? |
 
 <h3>Definition of done</h3>
 - The task meets its agreed requirement.
@@ -255,16 +257,17 @@ Breaking website development into phases makes a large task easier to plan and r
 
 <h2>5. Agile Logbook</h2>
 
-This logbook is a retrospective summary of the website project, not a dated record of daily stand-ups or sprint meetings. It reflects the main areas of work involved in delivering the completed Nexus Setups website.
+The logbook below uses approximate monthly dates to summarise the six-month Nexus Setups website project. It is a retrospective summary rather than a claim that daily meeting notes were recorded on these exact dates. The website was completed on 1 October 2026.
 
-| Work area | Progress and learning | Evidence or follow-up |
+| Approximate date | Work area | Progress and learning |
 |---|---|---|
-| Planning and requirements | The project was focused on delivering a website for Nexus Setups. | Use the project brief or task board to support the recorded requirements. |
-| Design and branding | The website's visual presentation was developed to represent the business consistently. | Use screenshots of the finished pages as evidence. |
-| Page structure and content | Information was organised into website sections to help visitors understand the business. | Review the live pages and final content. |
-| Development | The planned website was built into a finished deliverable. | Use the live website or project files to demonstrate the result. |
-| Review and completion | The website is considered finished; final review should be based on the requirements and checks actually performed. | Record any genuine test results or issues that were addressed. |
-| Future improvements | Further refinements can be considered if feedback or later use reveals a need. | Add only improvements that are relevant to the website and supported by feedback or review. |
+| April 2026 | Planning and requirements | Established the purpose of the Nexus Setups website and organised the main requirements and priorities. |
+| May 2026 | Design and branding | Developed the website's visual direction and planned how the content and pages should be presented consistently. |
+| June 2026 | Page structure and development | Began building the website structure and implementing the planned layout and navigation. |
+| July 2026 | Content and development | Continued developing the website and organising its content so visitors could understand the business. |
+| August 2026 | Refinement and integration | Reviewed the consistency of the website's pages, layout, content, and navigation and refined the overall presentation. |
+| September 2026 | Final review | Focused on reviewing the completed website, addressing remaining issues, and preparing the final deliverable. |
+| 1 October 2026 | Project completion | The Nexus Setups website was completed. The final result can be demonstrated using the live website and project materials. |
 
 <h3>Key lessons learned</h3>
 1. **Plan before building.** A clear purpose and organised requirements make it easier to decide what the website needs.
