@@ -165,8 +165,6 @@ I successfully deployed my portfolio website. This gave me practical experience 
 
 This section is part of the same portfolio page as the content above. It presents the five Agile artefacts required for the assessment.
 
-**Project status assumption:** For this portfolio, the project work is treated as completed except for legal work, which remains outstanding. This assumption does not replace evidence of specific deliverables, testing, or reviews.
-
 ## 1. Agile Team Charter
 
 ### Purpose and shared goal
