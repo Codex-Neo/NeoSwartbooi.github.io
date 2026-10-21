@@ -184,17 +184,14 @@ The shared goal is to deliver a consistent and usable business setup so prospect
 - Do not mark legal work as complete until it has been verified.
 
 <h3>Team responsibilities</h3>
+
 <table>
-  <thead>
-    <tr><th>Responsibility</th><th>Contribution</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Coordination</td><td>Set priorities and track progress</td></tr>
-    <tr><td>Planning</td><td>Clarify requirements and next steps</td></tr>
-    <tr><td>Design and development</td><td>Keep branding consistent and build digital workflows</td></tr>
-    <tr><td>Communication</td><td>Prepare client-facing content and share updates</td></tr>
-    <tr><td>Teamwork</td><td>Complete tasks, raise blockers, and review outcomes</td></tr>
-  </tbody>
+  <tr><th>Responsibility</th><th>Contribution</th></tr>
+  <tr><td>Coordination</td><td>Set priorities and track progress</td></tr>
+  <tr><td>Planning</td><td>Clarify requirements and next steps</td></tr>
+  <tr><td>Design and development</td><td>Maintain consistent branding and build digital workflows</td></tr>
+  <tr><td>Communication</td><td>Prepare client-facing content and share updates</td></tr>
+  <tr><td>Teamwork</td><td>Complete tasks, raise blockers, and review outcomes</td></tr>
 </table>
 
 <h3>Reflection</h3>
