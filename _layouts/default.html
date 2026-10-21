@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <meta name="description" content="Neo Swartbooi — IT, networking, project delivery and Agile portfolio.">
+  <title>{{ page.title | default: "Neo Swartbooi | Portfolio" }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="ambient ambient-one"></div>
+  <div class="ambient ambient-two"></div>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Neo Swartbooi home">
+      <span class="brand-mark">N<span>.</span></span>
+      <span class="brand-name">NEO SWARTBOOI<small>TECH · NETWORKS · DELIVERY</small></span>
+    </a>
+    <nav class="top-nav" aria-label="Main navigation">
+      <a href="#professional-summary">About</a>
+      <a href="#experience">Experience</a>
+      <a href="#projects">Projects</a>
+      <a href="#prp370s-agile-project-portfolio">Agile portfolio</a>
+    </nav>
+    <a class="header-cta" href="mailto:221522875@mycput.ac.za">Let's connect <span>↗</span></a>
+  </header>
+
+  <main class="page-shell">
+    <div class="eyebrow"><span class="status-dot"></span> PERSONAL PORTFOLIO <span class="eyebrow-divider">/</span> CAPE TOWN, SOUTH AFRICA</div>
+    <article class="content-card">
+      {{ content }}
+    </article>
+    <footer class="site-footer">
+      <a class="footer-brand" href="{{ '/' | relative_url }}">NEO<span>.</span></a>
+      <p>Built with purpose. Growing through technology.</p>
+      <a href="mailto:221522875@mycput.ac.za">Get in touch ↗</a>
+    </footer>
+  </main>
+</body>
+</html>
