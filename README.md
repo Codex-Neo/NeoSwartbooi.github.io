@@ -164,123 +164,114 @@ I successfully deployed my portfolio website. This gave me practical experience 
 ---
 
 <h1 id="prp370s-agile-project-portfolio">PRP370S: Agile Project Portfolio</h1>
-<h2>Nexus Setups | Assessment 2</h2>
+<h2>Nexus Setups | Website Development</h2>
 
-This section is part of the same portfolio page as the content above. It presents the five Agile artefacts required for the assessment.
+This portfolio documents the Agile approach used to plan and develop the Nexus Setups website. The website is the main project deliverable and is considered complete. The artefacts below focus on the website's purpose, its design and content, the development work, and the review of the finished result. They are written as a project summary rather than as dated meeting records.
 
 <h2>1. Agile Team Charter</h2>
 
 <h3>Purpose and shared goal</h3>
-Nexus Setups aims to establish a professional service business with a clear brand, online presence, client-facing workflows, project-management processes, communication channels, payment arrangements, marketing, administration, and launch preparation.
+The goal of the Nexus Setups project was to create a finished website that presents the business professionally and gives visitors a clear way to understand its identity and services. The website needed to have a consistent visual style, organised information, and straightforward navigation.
 
-The shared goal is to deliver a consistent and usable business setup so prospective clients can understand the services, make contact, and follow the intended client workflow. Legal and formal compliance activities remain a dependency and must not be represented as complete.
+The team shared responsibility for turning the project requirements into a usable website, reviewing the work, and making sure the finished result supported the purpose of Nexus Setups.
 
 <h3>Working agreements</h3>
-- Keep tasks visible on the shared Trello board and update their status.
-- Break larger requirements into smaller tasks with clear outcomes.
-- Prioritise work by client value, dependencies, and launch readiness.
-- Communicate blockers early and make important decisions visible.
-- Review completed work against its intended outcome.
-- Do not mark legal work as complete until it has been verified.
+- Keep project tasks organised and make progress visible to the team.
+- Break larger website requirements into smaller, manageable tasks.
+- Keep the website's layout, wording, and visual style consistent.
+- Communicate problems early and agree on how to resolve them.
+- Review completed work before treating a task as finished.
+- Use the agreed project requirements to guide changes and priorities.
 
 <h3>Team responsibilities</h3>
 
-- **Coordination:** Set priorities and track progress.
-- **Planning:** Clarify requirements and agree on next steps.
-- **Design and development:** Maintain consistent branding and build digital workflows.
-- **Communication:** Prepare client-facing content and share updates.
-- **Teamwork:** Complete tasks, raise blockers, and review outcomes.
+- **Coordination:** Keep the team organised and track progress towards completing the website.
+- **Planning:** Break website requirements into tasks and agree on priorities.
+- **Design and development:** Contribute to the website's structure, layout, branding, and implementation.
+- **Content and communication:** Make sure website information is clear and communicate progress within the team.
+- **Testing and review:** Check the finished pages for usability, consistency, and issues that need attention.
 
 <h3>Reflection</h3>
-A team charter creates a shared understanding of the project goal and how the team will work together. This project includes business planning, branding, technical development, communication, payments, marketing, and administration, so the team needs clear responsibilities and visible dependencies. A key lesson is that completing most of the project does not mean every launch requirement is complete. The legal work must remain visible until it is actually finished.
+A team charter helped establish a shared goal and gave the team a clearer way to organise the website work. Website development involves more than writing code: content, layout, branding, navigation, and reviewing the finished result all affect the user's experience. Clear communication and visible tasks help the team coordinate these different parts of the project.
 
 <h2>2. User Stories and Tasks</h2>
 
-User stories describe needs from the perspective of a person who will use or benefit from the service. The stories below summarise representative needs across the work areas shown in the Trello export.
+These user stories describe common needs the Nexus Setups website is intended to address. They focus on the website as the completed project deliverable rather than assuming features that have not been confirmed.
 
 | ID | User story | Example tasks | Acceptance criteria |
 |---|---|---|---|
-| US01 | As a prospective client, I want to understand the business and its services so I can decide whether to make contact. | Organise service information; review page structure and wording. | Services and contact information are easy to find and understand. |
-| US02 | As a prospective client, I want a clear way to contact the business so I can make an enquiry. | Define the contact path; document the enquiry process. | The client can identify how to enquire and what happens next. |
-| US03 | As a client, I want a structured onboarding process so I know what information or actions are required. | Map onboarding steps; identify information needed; document hand-offs. | The steps and client responsibilities are clear. |
-| US04 | As a client, I want to understand the status of my work so I know what happens next. | Define client-portal needs; map project-status information. | The intended workflow makes status and next steps clear. |
-| US05 | As a team member, I want tasks and responsibilities to be visible so work can be coordinated. | Maintain Trello; organise tasks by sprint; record blockers. | Work items are described and organised on the shared board. |
-| US06 | As a client, I want consistent communication so I receive clear updates and responses. | Define communication channels; prepare response guidance. | Important updates have a clear purpose and communication channel. |
-| US07 | As a client, I want understandable payment steps so I know how payment is handled. | Map payment workflow; prepare instructions; identify dependencies. | Payment steps are clear and do not imply unresolved legal requirements are complete. |
-| US08 | As a business owner, I want consistent branding and marketing so the business presents itself professionally. | Define brand elements; prepare and review marketing content. | Materials use a consistent identity and communicate the intended service. |
-| US09 | As a business owner, I want organised administrative processes so routine operations can be managed. | Document recurring tasks; organise records; identify responsibilities. | Key administrative processes and ownership are documented. |
-| US10 | As a business owner, I want legal requirements tracked so launch decisions account for compliance. | List legal dependencies; identify responsibility; track outstanding steps. | Legal work stays open until completion is verified. |
+| US01 | As a visitor, I want to understand what Nexus Setups is so I can decide whether the business is relevant to me. | Present the business identity; organise introductory information. | The purpose of the website and business is easy to understand. |
+| US02 | As a visitor, I want to find information about the business and its services without confusion. | Structure page content; use clear headings and labels. | Information is organised and can be found without unnecessary effort. |
+| US03 | As a visitor, I want to move between the website's sections easily. | Build and review the navigation; check page links. | Navigation labels are understandable and the available links work as intended. |
+| US04 | As a visitor, I want the website to look consistent and professional. | Apply the agreed branding, typography, spacing, and layout. | Pages use a consistent visual style that suits Nexus Setups. |
+| US05 | As a visitor, I want the website to be readable on my device. | Review page layout at different screen sizes; adjust content presentation where needed. | Content remains readable and the main navigation and information remain usable on supported screen sizes. |
+| US06 | As the website owner, I want the finished website to represent Nexus Setups accurately. | Review wording, page content, and presentation against the project purpose. | Published content is relevant to the business and does not contain known placeholder or misleading information. |
 
 <h3>Reflection</h3>
-User stories connect tasks to the people who need the outcome. For example, creating a website page is not the goal by itself; the goal is to help prospective clients find information and understand the service. Acceptance criteria make it easier to review whether a task meets its purpose. In future work, I would keep links between stories and their Trello tasks visible so the team can see why each task matters.
+User stories help explain why a website feature matters to the people using it. Instead of focusing only on creating a page or adding a navigation link, they connect each task to a visitor's need. Acceptance criteria also provide a practical way to review the finished website. In future projects, I would link each user story to its related task and evidence so it is easier to demonstrate how the requirement was met.
 
 <h2>3. Product Backlog</h2>
 
-The product backlog is the prioritised list of capabilities and work needed for the project. The priority labels below are a summary for this portfolio, not a claim that the Trello export contains these exact labels.
+The product backlog groups the main areas of work required for the Nexus Setups website. The website is considered complete, so the items below describe the core work delivered by the project. They are a summary of the project scope, not a claim that the original task board used these exact labels.
 
-| Priority | Backlog item | Value | Status / note |
+| Priority | Backlog item | Value to the project | Status |
 |---|---|---|---|
-| High | Business purpose and service definition | Clarifies what the business offers | Treated as complete under the stated assumption |
-| High | Branding and public presentation | Supports a consistent professional identity | Treated as complete under the stated assumption |
-| High | Website and core information | Helps prospective clients understand the business | Treated as complete under the stated assumption |
-| High | Contact and communication workflow | Supports enquiries and client communication | Treated as complete under the stated assumption |
-| High | Client onboarding and project workflow | Makes the client journey easier to manage | Treated as complete under the stated assumption |
-| Medium | Authentication and client portal | Supports intended client-facing functionality | Treated as complete under the stated assumption; attach supporting evidence |
-| Medium | Editing and content workflows | Makes routine updates more manageable | Treated as complete under the stated assumption |
-| Medium | Payment workflow and instructions | Clarifies intended payment steps | Confirm details against actual project evidence |
-| Medium | Marketing and launch preparation | Helps reach the intended audience | Treated as complete under the stated assumption |
-| High dependency | Legal and formal compliance work | Informs responsible launch readiness | **Outstanding; not complete** |
-| Medium | Administration and records | Supports day-to-day operations | Treated as complete under the stated assumption |
+| High | Define the website's purpose and audience | Keeps the content focused on the needs of visitors | Completed as part of the project |
+| High | Establish the visual identity and branding | Gives Nexus Setups a consistent, professional presentation | Completed as part of the project |
+| High | Organise website pages and information | Helps visitors understand the business and find relevant content | Completed as part of the project |
+| High | Build the website layout and navigation | Makes the website easier to browse | Completed as part of the project |
+| High | Add and review website content | Ensures the information supports the website's purpose | Completed as part of the project |
+| Medium | Review usability and presentation | Helps identify confusing layouts, inconsistent styling, and navigation issues | Included in the final review |
+| Medium | Review the finished website across screen sizes | Helps keep the content readable and usable on different devices | Include only the checks supported by project evidence |
+| Low / future improvement | Collect feedback and plan refinements | Helps guide improvements after the initial delivery | Future work if feedback identifies a need |
 
 <h3>Prioritisation rationale</h3>
-The business basics and client journey are high priority because prospective clients need to understand the service, make contact, and know what happens next. Technical and operational features support this journey. Legal work remains a visible dependency because progress on other tasks does not prove that legal requirements have been met.
+The highest priorities were the parts needed to deliver the website's core purpose: clear business information, consistent branding, organised content, and usable navigation. Review and testing help ensure these parts work together as a complete website. Further improvements can be prioritised later based on feedback or issues identified after the website has been delivered.
 
 <h3>Reflection</h3>
-The backlog gives the team an overall view of the project and helps it decide what needs attention first. It also makes dependencies visible. The remaining legal work shows why priorities should be reviewed in terms of both value and readiness. In a future iteration, I would record priority changes and the reasons for them directly on the board.
+The backlog provides an overview of the work needed to reach the finished website. Prioritising the core content and navigation first helps keep development focused on the visitor's experience. A useful lesson is that completion should be assessed against the agreed requirements, not just the number of tasks finished. In a future project, I would keep the backlog updated and attach screenshots or links as evidence for completed items.
 
 <h2>4. Sprint Backlog</h2>
 
-The Trello export is organised into 13 sprint lists. The summary below groups the main themes visible in the project; it is not a verified one-to-one mapping of every card to a sprint.
+The sprint backlog represents the main groups of work involved in delivering the website. The grouping below is a high-level summary, not a verified record of the exact cards or tasks completed in each original sprint.
 
-| Sprint grouping | Project themes | Review focus |
+| Work phase | Main activities | Review focus |
 |---|---|---|
-| Sprints 1–3 | Business planning, company-formation planning, branding | Are the business purpose, identity, and requirements clear? |
-| Sprints 4–6 | Website development, authentication, client portal | Do the intended information and client workflows work as planned? |
-| Sprints 7–9 | Project management, editing workflows, communication | Can work be coordinated and communication kept consistent? |
-| Sprints 10–11 | Payments and marketing | Are client-facing processes and promotional materials clear? |
-| Sprints 12–13 | Administration and launch preparation | Are operational tasks organised and outstanding dependencies visible? |
-
-*Use the actual Trello sprint lists as the source of truth for the exact contents of each sprint.*
+| Requirements and planning | Establish the website's purpose, audience, content needs, and priorities | Is the intended purpose of the website clear? |
+| Design and structure | Plan the page structure, navigation, and visual direction | Can visitors understand the layout and move between sections? |
+| Website development | Build the pages and apply the agreed layout, branding, and content | Does the website reflect the intended design and content? |
+| Content and refinement | Review wording, formatting, links, and consistency across pages | Is the information clear and presented consistently? |
+| Final review and completion | Review the finished website and address identified issues | Does the delivered website meet the agreed project requirements? |
 
 <h3>Definition of done</h3>
-- The task outcome is clear and the work has been completed.
-- The result has been reviewed against the requirement or acceptance criteria.
-- Relevant documentation or hand-over information is updated.
-- Known issues and dependencies are recorded.
-- Legal or compliance-dependent work remains open until completion is verified.
+- The task meets its agreed requirement.
+- The relevant page or website element has been reviewed.
+- Text, layout, branding, and links are consistent with the rest of the website.
+- Any known issue or unfinished item is recorded honestly.
+- The completed work can be demonstrated using the website or supporting project evidence.
 
 <h3>Reflection</h3>
-Sprint backlogs help turn a large project into smaller groups of work that can be planned and reviewed. The Trello board shows work across business planning, branding, development, communication, payments, marketing, administration, and launch preparation. Reviewing each sprint helps identify unfinished work and dependencies. The CSV export alone does not prove dates, sprint goals, assignees, test outcomes, or review decisions, so those details should only be added when actual records support them.
+Breaking website development into phases makes a large task easier to plan and review. Planning, design, development, content review, and final checks each contribute to the finished result. The phases above describe the overall workflow and should not be treated as exact sprint dates or a one-to-one reconstruction of the original Trello board. In future work, I would record each sprint goal, completed tasks, blockers, and review outcomes as the sprint happens.
 
 <h2>5. Agile Logbook</h2>
 
-This is a retrospective summary based on the project work areas and the completion assumption. It is not a dated record of daily stand-ups or sprint meetings.
+This logbook is a retrospective summary of the website project, not a dated record of daily stand-ups or sprint meetings. It reflects the main areas of work involved in delivering the completed Nexus Setups website.
 
-| Area | Progress and learning | Follow-up |
+| Work area | Progress and learning | Evidence or follow-up |
 |---|---|---|
-| Planning and business setup | Work was organised around business planning and defining the project direction. | Keep requirements and dependencies visible. |
-| Branding and website | Branding and website work support a consistent public presentation. | Capture evidence of the completed outputs. |
-| Authentication and client workflows | The project includes authentication, a client portal, and project-management workflows. | Keep genuine screenshots or demonstrations of completed behaviour. |
-| Communication and payments | These work areas support the intended client journey. | Confirm the instructions and any dependencies against actual evidence. |
-| Marketing and administration | These areas support business operations and launch preparation. | Maintain clear processes and records. |
-| Launch readiness | Work is treated as complete except for legal work. | Keep legal work open until it is verified as complete. |
+| Planning and requirements | The project was focused on delivering a website for Nexus Setups. | Use the project brief or task board to support the recorded requirements. |
+| Design and branding | The website's visual presentation was developed to represent the business consistently. | Use screenshots of the finished pages as evidence. |
+| Page structure and content | Information was organised into website sections to help visitors understand the business. | Review the live pages and final content. |
+| Development | The planned website was built into a finished deliverable. | Use the live website or project files to demonstrate the result. |
+| Review and completion | The website is considered finished; final review should be based on the requirements and checks actually performed. | Record any genuine test results or issues that were addressed. |
+| Future improvements | Further refinements can be considered if feedback or later use reveals a need. | Add only improvements that are relevant to the website and supported by feedback or review. |
 
 <h3>Key lessons learned</h3>
-1. **Visible work is easier to coordinate.** A shared Trello board gives the team a common view of tasks and progress.
-2. **Large goals need smaller tasks.** Breaking work down makes it easier to assign, understand, and review.
-3. **Dependencies matter.** A completed website or workflow does not automatically mean the business is ready to launch.
-4. **Evidence strengthens reflection.** Screenshots and links help demonstrate what was done and what was learned.
-5. **Records must reflect what happened.** A retrospective summary should not be presented as dated meeting notes unless those notes exist.
+1. **Plan before building.** A clear purpose and organised requirements make it easier to decide what the website needs.
+2. **Think about the visitor.** Content and navigation should help people find information without confusion.
+3. **Consistency matters.** Branding, layout, and wording should feel connected across the website.
+4. **Review the finished result.** Checking the complete website helps identify issues that may not be obvious when working on individual pages.
+5. **Use evidence to support claims.** Screenshots, project files, task-board records, and genuine test results help demonstrate what was completed.
 
 <h3>Reflection</h3>
-The project demonstrates the value of organising a broad goal into visible work areas and tracking them across multiple sprints. Because the project includes both technical delivery and business operations, communication and coordination are important. A key lesson is to judge completion against the intended outcome and any dependencies, not just a card's status. The main outstanding dependency is legal work. In future projects, I would keep brief notes after each sprint review, record decisions and blockers when they occur, and link each completed task to evidence.
+The Nexus Setups project provided experience in taking a website from planned requirements to a finished online result. The work involved coordinating tasks and considering how structure, content, branding, and usability fit together. One important lesson is that a website should be judged by how well it meets its purpose, not only by whether its pages have been created. For future projects, I would keep more detailed sprint notes and link completed tasks to evidence so the development process and final outcome are easier to demonstrate.
