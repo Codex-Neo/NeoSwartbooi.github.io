@@ -186,14 +186,11 @@ The shared goal is to deliver a consistent and usable business setup so prospect
 <h3>Team responsibilities</h3>
 | Responsibility | Contribution |
 |---|---|
-| Project coordination | Organise priorities, track progress, and coordinate dependencies |
-| Research and planning | Gather information and clarify business requirements |
-| Design and branding | Keep the brand identity and public presentation consistent |
-| Technical development | Develop and maintain the website and digital workflows |
-| Content and communication | Prepare client-facing information and communication processes |
-| All team members | Complete agreed tasks, raise blockers, and review outcomes |
-
-*Use the team charter or actual project records to add named members to these responsibilities where confirmed.*
+| Coordination | Keep priorities clear and track progress |
+| Planning and research | Clarify requirements and next steps |
+| Design and development | Maintain consistent branding and build digital workflows |
+| Communication | Prepare client-facing content and keep the team informed |
+| Shared responsibility | Complete agreed tasks, raise blockers, and review the work |
 
 <h3>Reflection</h3>
 A team charter creates a shared understanding of the project goal and how the team will work together. This project includes business planning, branding, technical development, communication, payments, marketing, and administration, so the team needs clear responsibilities and visible dependencies. A key lesson is that completing most of the project does not mean every launch requirement is complete. The legal work must remain visible until it is actually finished.
