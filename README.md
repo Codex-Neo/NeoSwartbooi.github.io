@@ -2,17 +2,17 @@
 
 **Student**  
 Cape Town, Western Cape, 7805  
-📞 065 823 4131  
-📧 221522875@mycput.ac.za  
+ 065 823 4131  
+ 221522875@mycput.ac.za  
 
 ---
 
-## 🧾 Professional Summary
+## Professional Summary
 Proficient in IT support, project management, and engineering department support. Motivated with strong interpersonal skills and the ability to handle communication scripts and various customer needs professionally.
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Administrative / IT Support**  
 *Labour Logix*  
@@ -32,7 +32,7 @@ Proficient in IT support, project management, and engineering department support
 
 ---
 
-## 🎓 Education
+## Education
 
 **Diploma in ICT**  
 Cape Peninsula University of Technology *(Current)*  
@@ -42,7 +42,7 @@ Belhar High School *(Completed: Jan 2020)*
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - Network Configuration  
 - Network Troubleshooting  
@@ -55,7 +55,7 @@ Belhar High School *(Completed: Jan 2020)*
 
 ---
 
-## 📂 Projects
+## Projects
 
 **Non-Profit Website Development**  
 - Designed and developed a website for a non-profit initiative  
@@ -74,26 +74,26 @@ Belhar High School *(Completed: Jan 2020)*
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 To build a career as a Network Engineer by gaining hands-on experience in enterprise networking and cloud technologies, while developing leadership and business skills to establish a future networking consultancy and training academy.
 
 ---
 
-## 🤝 References
+## References
 
 **Martin Mandioma**  
 Cape Peninsula University of Technology  
-📧 MandiomaM@cput.ac.za  
-📞 (021) 460-3675  
+ MandiomaM@cput.ac.za  
+ (021) 460-3675  
 
 **Shahiema Hunter**  
 De Vries Contractors Pty Ltd  
-📧 Admin@devriescontractors.co.za  
-📞 083 503 7216  
+ Admin@devriescontractors.co.za  
+ 083 503 7216  
 
 ---
 
-## 🧠 Reflection on Coding in Markdown (STAR Method)
+## Reflection on Coding in Markdown (STAR Method)
 
 **Situation:**  
 I was required to create a professional CV using Markdown and publish it through GitHub as part of my portfolio.
@@ -109,7 +109,7 @@ I successfully created a well-structured CV using Markdown. This improved my und
 
 ---
 
-## 🎤 Mock Interview Experience
+## Mock Interview Experience
 
 This mock interview demonstrates my ability to communicate technical concepts, handle behavioural questions, and respond under pressure in a professional setting. It includes real interview-style questions focused on problem-solving, teamwork, and decision-making.
 
@@ -117,12 +117,12 @@ This mock interview demonstrates my ability to communicate technical concepts, h
 - Covers both technical and behavioural interview questions  
 - Reflects my ability to structure clear and relevant answers  
 
-### 🎥 Watch My Mock Interview
+###  Watch My Mock Interview
 [![Watch My Mock Interview] (https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=sharing)
 
 ---
 
-## 🧠 Reflection on Mock Interview (STAR Method)
+## Reflection on Mock Interview (STAR Method)
 
 **Situation:**  
 I participated in a mock interview to simulate a real job interview environment.
@@ -138,13 +138,13 @@ The experience improved my confidence and highlighted areas where I can improve,
 
 ---
 
-## 🌐 Published on GitHub Pages
+## Published on GitHub Pages
 
 My portfolio is deployed using GitHub Pages, allowing it to be publicly accessible online.
 
 ---
 
-## 🧠 Reflection on GitHub Pages (STAR Method)
+## Reflection on GitHub Pages (STAR Method)
 
 **Situation:**  
 I needed to publish my portfolio online to make it accessible and meet project requirements.
@@ -161,11 +161,11 @@ I successfully deployed my portfolio website. This gave me practical experience 
 ---
 
 # PRP370S: Agile Project Portfolio
-## Nexus Setups | Assessment 2
+##Nexus Setups | Assessment 2
 
 This section is part of the same portfolio page as the content above. It presents the five Agile artefacts required for the assessment.
 
-## 1. Agile Team Charter
+##1. Agile Team Charter
 
 ### Purpose and shared goal
 Nexus Setups aims to establish a professional service business with a clear brand, online presence, client-facing workflows, project-management processes, communication channels, payment arrangements, marketing, administration, and launch preparation.
@@ -195,7 +195,7 @@ The shared goal is to deliver a consistent and usable business setup so prospect
 ### Reflection
 A team charter creates a shared understanding of the project goal and how the team will work together. This project includes business planning, branding, technical development, communication, payments, marketing, and administration, so the team needs clear responsibilities and visible dependencies. A key lesson is that completing most of the project does not mean every launch requirement is complete. The legal work must remain visible until it is actually finished.
 
-## 2. User Stories and Tasks
+##2. User Stories and Tasks
 
 User stories describe needs from the perspective of a person who will use or benefit from the service. The stories below summarise representative needs across the work areas shown in the Trello export.
 
@@ -215,7 +215,7 @@ User stories describe needs from the perspective of a person who will use or ben
 ### Reflection
 User stories connect tasks to the people who need the outcome. For example, creating a website page is not the goal by itself; the goal is to help prospective clients find information and understand the service. Acceptance criteria make it easier to review whether a task meets its purpose. In future work, I would keep links between stories and their Trello tasks visible so the team can see why each task matters.
 
-## 3. Product Backlog
+##3. Product Backlog
 
 The product backlog is the prioritised list of capabilities and work needed for the project. The priority labels below are a summary for this portfolio, not a claim that the Trello export contains these exact labels.
 
@@ -239,7 +239,7 @@ The business basics and client journey are high priority because prospective cli
 ### Reflection
 The backlog gives the team an overall view of the project and helps it decide what needs attention first. It also makes dependencies visible. The remaining legal work shows why priorities should be reviewed in terms of both value and readiness. In a future iteration, I would record priority changes and the reasons for them directly on the board.
 
-## 4. Sprint Backlog
+##4. Sprint Backlog
 
 The Trello export is organised into 13 sprint lists. The summary below groups the main themes visible in the project; it is not a verified one-to-one mapping of every card to a sprint.
 
@@ -263,7 +263,7 @@ The Trello export is organised into 13 sprint lists. The summary below groups th
 ### Reflection
 Sprint backlogs help turn a large project into smaller groups of work that can be planned and reviewed. The Trello board shows work across business planning, branding, development, communication, payments, marketing, administration, and launch preparation. Reviewing each sprint helps identify unfinished work and dependencies. The CSV export alone does not prove dates, sprint goals, assignees, test outcomes, or review decisions, so those details should only be added when actual records support them.
 
-## 5. Agile Logbook
+##5. Agile Logbook
 
 This is a retrospective summary based on the project work areas and the completion assumption. It is not a dated record of daily stand-ups or sprint meetings.
 
