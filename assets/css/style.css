@@ -33,7 +33,7 @@ a:hover { color: #a91e32; }
 .ambient-two { top: 58%; right: -220px; background: #ff4354; }
 .site-header {
   position: sticky; top: 0; z-index: 10;
-  display: flex; align-items: center; justify-content: space-between; gap: 24px;
+  display: flex; align-items: center; justify-content: center; gap: 24px;
   width: 100%; padding: 15px clamp(20px, 5vw, 76px);
   border-bottom: 1px solid rgba(169, 186, 222, .12);
   background: rgba(255, 255, 255, .86);
@@ -110,13 +110,10 @@ a:hover { color: #a91e32; }
   .site-header { flex-wrap: wrap; gap: 12px; padding: 12px 20px; }
   .top-nav { order: 3; width: 100%; overflow-x: auto; gap: 22px; padding: 5px 0 2px; }
   .top-nav a { white-space: nowrap; }
-  .header-cta { margin-left: auto; }
   .page-shell { padding-top: 32px; }
   .content-card { border-radius: 20px; }
 }
 @media (max-width: 520px) {
-  .brand-name { font-size: 10px; }
-  .header-cta { padding: 8px 10px; font-size: 11px; }
   .page-shell { width: min(100% - 22px, 1080px); }
   .content-card { padding: 22px 18px; }
   .content-card h1:not(:first-child), .content-card h2 { margin-top: 38px; padding-top: 22px; }
