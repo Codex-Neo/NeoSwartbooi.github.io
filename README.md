@@ -118,7 +118,10 @@ This mock interview demonstrates my ability to communicate technical concepts, h
 - Reflects my ability to structure clear and relevant answers  
 
 ## #  Watch My Mock Interview
-[![Watch My Mock Interview] (https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=sharing)
+<video src="./Documents/Neo Swartbooi_221522875_Mock Interview.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+*Note: If the video does not load, you can view it [here].(https://drive.google.com/file/d/17Eei-bvXzCRgVaBqD74ay3Vz9YQXclZ1/view?usp=sharing).*
 
 ---
 
