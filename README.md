@@ -185,7 +185,7 @@ The shared goal is to deliver a consistent and usable business setup so prospect
 
 <h3>Team responsibilities</h3>
 
-<table>
+<table class="team-responsibilities">
   <tr><th>Responsibility</th><th>Contribution</th></tr>
   <tr><td>Coordination</td><td>Set priorities and track progress</td></tr>
   <tr><td>Planning</td><td>Clarify requirements and next steps</td></tr>
