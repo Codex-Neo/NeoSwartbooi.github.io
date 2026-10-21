@@ -126,3 +126,8 @@ a:hover { color: #a91e32; }
   html { scroll-behavior: auto; }
   * { transition: none !important; }
 }
+
+/* Keep the Agile team responsibilities table compact instead of stretching across the page. */
+.content-card table.team-responsibilities { display: table; width: auto; max-width: 100%; table-layout: auto; }
+.content-card table.team-responsibilities th, .content-card table.team-responsibilities td { min-width: 0; padding: 8px 12px; }
+.content-card table.team-responsibilities th:first-child, .content-card table.team-responsibilities td:first-child { white-space: nowrap; }
