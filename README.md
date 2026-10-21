@@ -168,8 +168,6 @@ I successfully deployed my portfolio website. This gave me practical experience 
 
 This section expands the Nexus Setups Agile portfolio using the actual **Nexus Setups Board.csv** Trello export. The export contains **85 cards across 13 sprint lists**. The cards cover business planning and company formation as well as branding, the public website, authentication, a client portal, project management, editing workflows, communication, payments, marketing, administration, and launch preparation.
 
-The Nexus Setups website was completed on **1 October 2026**, after an approximately six-month project period from **1 April to 1 October 2026**. The Trello export describes a broader planned business/platform scope. It does not prove that every proposed system feature was implemented. The card export also has no recorded member assignments, start dates, due dates, or completion statuses, so the sprint material below is presented as the board's planned work and not as proof that every task was completed.
-
 <h2>1. Agile Team Charter</h2>
 
 <h3>Project vision</h3>
