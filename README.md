@@ -166,7 +166,7 @@ I successfully deployed my portfolio website. This gave me practical experience 
 <h1 id="prp370s-agile-project-portfolio">PRP370S: Agile Project Portfolio</h1>
 <h2>Nexus Setups | Website and Business Platform Planning</h2>
 
-This portfolio reflects our work on Nexus Setups as a two-member team over approximately six months, from 1 April to 1 October 2026. We used Trello to organise the work into sprint lists and write user stories and task descriptions. I contributed by gathering information for the project, helping with branding and visual design, writing user stories and task descriptions, coordinating communication, and testing the live website. My teammate mainly handled the website coding and gave presentations. We worked through most of the planned areas, while changing requirements and time management made it harder to keep everything on track. The Trello export contains 85 cards across 13 sprint lists, including both the public website and wider ideas for the business platform.
+This portfolio covers the Nexus Setups project, completed by a two-member team over approximately six months, from 1 April to 1 October 2026. Trello was used to organise the work into sprint lists and record user stories and task descriptions. We worked through most of the planned areas, although changing requirements and time constraints made it challenging to keep everything on track. The Trello export contains 85 cards across 13 sprint lists, covering business planning, branding, the public website, and ideas for a wider digital platform.
 
 <h2>1. Agile Team Charter</h2>
 
@@ -203,13 +203,15 @@ The shared goal is to deliver a coherent Nexus Setups website and a clearly orga
 
 <h3>Team responsibilities</h3>
 
-Nexus Setups was completed by a **two-member team**, so each of us handled different responsibilities and we worked together when the project needed it.
+Nexus Setups was completed by a **two-member team**. We used Trello to organise the project, divide the work into manageable tasks, and keep the different areas of the project visible.
 
-- **My responsibilities:** I gathered and prepared the information needed for the website, contributed to branding and visual design, wrote user stories and task descriptions, helped coordinate communication, and carried out live tests on the website. When I found issues during testing, I reported them so they could be checked and fixed.
-- **My teammate’s responsibilities:** My teammate mainly coded the website and delivered the project presentations.
-- **Shared responsibilities:** We used Trello to organise the planned work and keep track of the different areas of the project. We communicated about changes, decided what needed attention, and worked through tasks both individually and together.
+- **Planning and organisation:** Use the sprint lists, user stories, and task descriptions to organise the work and clarify what each task is intended to achieve.
+- **Branding and website:** Develop a consistent visual identity and a clear public-facing website for Nexus Setups.
+- **Content and requirements:** Gather the information needed for the website and translate project needs into user stories and task descriptions.
+- **Testing and review:** Check the live website, identify issues, and review whether the result meets the intended requirements.
+- **Communication and presentations:** Keep each other informed about progress and changes, and communicate the project outcomes.
 
-This division reflects how we actually worked rather than assigning every Trello card to a specific person. The board contains a wider set of planned business and platform features, so the presence of a card alone does not mean that feature was implemented.
+Tasks were handled individually or together depending on the work involved. The Trello board also contains ideas for a wider business platform, so a card being listed does not by itself mean that feature was implemented.
 
 <h3>Definition of done</h3>
 
@@ -217,7 +219,7 @@ A card should only be treated as complete when its intended result has been prod
 
 <h3>Reflection on the team charter</h3>
 
-The project showed me that even with only two members, a clear division of work and regular communication are important. I helped by preparing information, organising requirements, supporting the visual direction, and testing the live website, while my teammate focused mainly on coding and presentations. The Trello board helped us see the different areas involved, but changing requirements and time pressure sometimes made it difficult to stay organised. In future, I would plan smaller tasks, set clearer priorities, and check progress more consistently so I do not lose track of what needs to be done.
+The project showed how important planning and communication are, especially when requirements change and time is limited. Trello helped organise the different parts of the project, but keeping track of tasks and priorities was not always easy. In future projects, I would improve my time management by breaking work into smaller steps, setting clearer priorities, and reviewing progress more regularly.
 
 <h2>2. User Stories and Tasks</h2>
 
@@ -928,13 +930,13 @@ Looking back, I learned that planning a project is not just about listing tasks;
 
 <h2>6. Overall Project Reflection</h2>
 
-The project involved both planning and practical work. In our two-member team, I focused on gathering the information needed for the website, helping with branding and visual design, writing user stories and task descriptions, coordinating communication, and testing the live site. My teammate mainly handled the coding and presentations. We worked through most of the planned areas, but changing requirements and time management were challenges, and some Trello cards describe broader platform ideas rather than features we can claim were all implemented.
+The project involved both planning and practical work. We worked through most of the planned areas, but changing requirements and time management were challenges. The Trello board also included ideas for a wider business platform, so it is important to distinguish those planned features from the public website that was completed.
 
-My main lesson is that I need to manage my time and plan my work better. At times I lost track of tasks, especially when requirements changed. In a future project, I would set smaller goals, identify the most important tasks first, update Trello more consistently, and check progress with my teammate regularly. The live website, Trello board and cards, and GitHub code or commits provide evidence that can support the portfolio.
+One lesson I took from the project is that I need to improve my time management and planning. At times, I lost track of tasks, especially when requirements changed. In future projects, I would set smaller goals, identify the most important tasks first, update Trello more consistently, and review progress regularly. The live website, Trello board and cards, and GitHub code or commits can support the portfolio as evidence of the project.
 
 <h3>Project deliverable</h3>
 
-The Nexus Setups website is the completed public-facing deliverable for this project period. The work was shared across two members: I supported the information gathering, branding, task descriptions, coordination and live testing, while my teammate mainly focused on coding and presentations.
+The Nexus Setups website is the completed public-facing deliverable for this project period. The work was completed by a two-member team, using Trello to organise tasks and track the wider project plan.
 
 - **Website:** [Visit Nexus Setups](https://www.setups.nexus/)
 - **Project period:** 1 April 2026 – 1 October 2026
