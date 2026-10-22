@@ -166,7 +166,7 @@ I successfully deployed my portfolio website. This gave me practical experience 
 <h1 id="prp370s-agile-project-portfolio">PRP370S: Agile Project Portfolio</h1>
 <h2>Nexus Setups | Website and Business Platform Planning</h2>
 
-This section expands the Nexus Setups Agile portfolio using the actual **Nexus Setups Board.csv** Trello export. The export contains **85 cards across 13 sprint lists**. The cards cover business planning and company formation as well as branding, the public website, authentication, a client portal, project management, editing workflows, communication, payments, marketing, administration, and launch preparation.
+This portfolio reflects our work on Nexus Setups as a two-member team over approximately six months, from 1 April to 1 October 2026. We used Trello to organise the work into sprint lists and write user stories and task descriptions. I contributed by gathering information for the project, helping with branding and visual design, writing user stories and task descriptions, coordinating communication, and testing the live website. My teammate mainly handled the website coding and gave presentations. We worked through most of the planned areas, while changing requirements and time management made it harder to keep everything on track. The Trello export contains 85 cards across 13 sprint lists, including both the public website and wider ideas for the business platform.
 
 <h2>1. Agile Team Charter</h2>
 
@@ -203,18 +203,13 @@ The shared goal is to deliver a coherent Nexus Setups website and a clearly orga
 
 <h3>Team responsibilities</h3>
 
-The exported Trello cards do not contain assigned members, so the responsibilities below describe the functional responsibilities needed for this project. They are not a claim that individual cards were formally assigned to named people.
+Nexus Setups was completed by a **two-member team**, so each of us handled different responsibilities and we worked together when the project needed it.
 
-- **Project coordination:** Maintain the project direction, keep the Trello board organised, monitor the work across sprints, record blockers, and make sure progress is communicated.
-- **Business planning:** Develop the vision and mission, clarify the target audience and value proposition, research competitors, and organise business and success measures.
-- **Business administration:** Track the planned legal, tax, financial, domain, hosting, email, insurance, and accounting setup requirements.
-- **Branding and design:** Maintain the visual identity, including logo, colours, typography, brand guidelines, and consistency across the website and communication material.
-- **Website design and development:** Organise website structure and navigation, develop the planned pages, and consider content quality, accessibility, responsiveness, performance, and analytics.
-- **Platform and security planning:** Document proposed account, authentication, session, role, client portal, file, and administrative capabilities, while identifying security requirements.
-- **Project and editing workflow:** Organise project submissions, assets, assignments, internal tasks, deadlines, revisions, quality assurance, and delivery.
-- **Communication and marketing:** Plan client communication, email templates, SEO, content, social media, lead generation, and email marketing.
-- **Finance and payments:** Plan pricing, quotes, invoices, payment gateway integration, and payment history visibility.
-- **Quality assurance and launch readiness:** Review work against requirements, record known issues, plan beta testing, prepare documentation, and identify monitoring needs.
+- **My responsibilities:** I gathered and prepared the information needed for the website, contributed to branding and visual design, wrote user stories and task descriptions, helped coordinate communication, and carried out live tests on the website. When I found issues during testing, I reported them so they could be checked and fixed.
+- **My teammate’s responsibilities:** My teammate mainly coded the website and delivered the project presentations.
+- **Shared responsibilities:** We used Trello to organise the planned work and keep track of the different areas of the project. We communicated about changes, decided what needed attention, and worked through tasks both individually and together.
+
+This division reflects how we actually worked rather than assigning every Trello card to a specific person. The board contains a wider set of planned business and platform features, so the presence of a card alone does not mean that feature was implemented.
 
 <h3>Definition of done</h3>
 
@@ -222,7 +217,7 @@ A card should only be treated as complete when its intended result has been prod
 
 <h3>Reflection on the team charter</h3>
 
-The charter makes the breadth of the Nexus Setups project clearer. It is not only a website design exercise: the Trello board also records business planning, branding, customer experience, service delivery, communication, payments, and launch preparation. Breaking the work into functional responsibilities helps show how these areas relate to the final business experience. A key improvement for future work would be to record named owners and clear acceptance criteria on each card so accountability and completion can be demonstrated more easily.
+The project showed me that even with only two members, a clear division of work and regular communication are important. I helped by preparing information, organising requirements, supporting the visual direction, and testing the live website, while my teammate focused mainly on coding and presentations. The Trello board helped us see the different areas involved, but changing requirements and time pressure sometimes made it difficult to stay organised. In future, I would plan smaller tasks, set clearer priorities, and check progress more consistently so I do not lose track of what needs to be done.
 
 <h2>2. User Stories and Tasks</h2>
 
@@ -906,7 +901,7 @@ Using the sprint lists makes the scale and progression of the work easier to und
 
 <h2>5. Agile Logbook</h2>
 
-The project ran for approximately six months, from **1 April 2026 to 1 October 2026**, when the Nexus Setups website was completed. The monthly entries below are a retrospective summary of the project period, not a reconstruction of dated Trello activity. The CSV export has blank start-date and due-date fields, so it cannot establish exact dates for individual sprints.
+The project ran for approximately six months, from **1 April 2026 to 1 October 2026**, when the Nexus Setups website was completed. The logbook below gives a broad retrospective of the work and planning. We worked through most of the planned areas, but the Trello export does not record exact dates for each sprint, so the monthly focus areas should be read as an overview rather than a dated record of every task.
 
 | Approximate period | Focus area | Progress summary and learning |
 |---|---|---|
@@ -929,17 +924,17 @@ The project ran for approximately six months, from **1 April 2026 to 1 October 2
 
 <h3>Reflection on the Agile logbook</h3>
 
-The six-month project period provides a useful overall timeline, but the exported Trello file does not contain enough date information to verify the exact timing of each sprint. A retrospective summary is useful for explaining the project, but a contemporaneous logbook would provide stronger evidence. In future, I would record progress at the end of each sprint and retain the supporting artefacts so that project decisions, completed work, and lessons learned can be traced back to the board.
+Looking back, I learned that planning a project is not just about listing tasks; it is also about keeping track of them as requirements change. I contributed by preparing information, writing user stories and task descriptions, communicating with my teammate, and testing the live website. The main difficulties were changing requirements and managing time. I sometimes lost track of tasks, so next time I would break work into smaller steps, set priorities and deadlines, and review the Trello board more regularly. The live website, Trello board, and GitHub code or commits can be used as evidence of the work.
 
 <h2>6. Overall Project Reflection</h2>
 
-The Nexus Setups board demonstrates how a business website project can expand into a wider plan covering business foundations, branding, customer experience, project operations, communications, payments, marketing, administration, and launch preparation. The 13 sprint lists provide a way to group that scope into manageable areas, while the user stories help connect the work to the needs of founders, visitors, clients, editors, managers, marketers, and administrators.
+The project involved both planning and practical work. In our two-member team, I focused on gathering the information needed for the website, helping with branding and visual design, writing user stories and task descriptions, coordinating communication, and testing the live site. My teammate mainly handled the coding and presentations. We worked through most of the planned areas, but changing requirements and time management were challenges, and some Trello cards describe broader platform ideas rather than features we can claim were all implemented.
 
-One important lesson is the need to distinguish the planned product vision from the deliverable that was actually completed. The website completion date is 1 October 2026, but the exported board does not show task completion statuses or dated activity. Future improvements should include explicit priorities, acceptance criteria, named owners, dependencies, updated statuses, and evidence attached to completed cards. This would make the portfolio stronger because it would show not only what was planned, but also what was delivered and what was learned.
+My main lesson is that I need to manage my time and plan my work better. At times I lost track of tasks, especially when requirements changed. In a future project, I would set smaller goals, identify the most important tasks first, update Trello more consistently, and check progress with my teammate regularly. The live website, Trello board and cards, and GitHub code or commits provide evidence that can support the portfolio.
 
 <h3>Project deliverable</h3>
 
-The Nexus Setups website is the completed public-facing deliverable for this project period.
+The Nexus Setups website is the completed public-facing deliverable for this project period. The work was shared across two members: I supported the information gathering, branding, task descriptions, coordination and live testing, while my teammate mainly focused on coding and presentations.
 
 - **Website:** [Visit Nexus Setups](https://www.setups.nexus/)
 - **Project period:** 1 April 2026 – 1 October 2026
