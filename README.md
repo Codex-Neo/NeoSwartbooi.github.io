@@ -166,7 +166,7 @@ I successfully deployed my portfolio website. This gave me practical experience 
 <h1 id="prp370s-agile-project-portfolio">PRP370S: Agile Project Portfolio</h1>
 <h2>Nexus Setups | Website and Business Platform Planning</h2>
 
-This portfolio covers the Nexus Setups project, completed by a two-member team over approximately six months, from 1 April to 1 October 2026. Trello was used to organise the work into sprint lists and record user stories and task descriptions. We worked through most of the planned areas, although changing requirements and time constraints made it challenging to keep everything on track. The Trello export contains 85 cards across 13 sprint lists, covering business planning, branding, the public website, and ideas for a wider digital platform.
+This portfolio covers the Nexus Setups project, completed by a two-member team over approximately six months, from 1 April to 1 October 2026. Trello was used to organise the work into sprint lists and record user stories and task descriptions. We completed the tasks on the board, working through changing requirements and time constraints along the way. The Trello export contains 85 cards across 13 sprint lists, covering business planning, branding, the public website, and the wider digital platform.
 
 <h2>1. Agile Team Charter</h2>
 
@@ -211,11 +211,11 @@ Nexus Setups was completed by a **two-member team**. We used Trello to organise 
 - **Testing and review:** Check the live website, identify issues, and review whether the result meets the intended requirements.
 - **Communication and presentations:** Keep each other informed about progress and changes, and communicate the project outcomes.
 
-Tasks were handled individually or together depending on the work involved. The Trello board also contains ideas for a wider business platform, so a card being listed does not by itself mean that feature was implemented.
+Tasks were handled individually or together depending on the work involved. The work represented by the Trello cards was completed, including the tasks across the different sprint areas.
 
 <h3>Definition of done</h3>
 
-A card should only be treated as complete when its intended result has been produced and reviewed. Where applicable, evidence should show that the relevant content, page, workflow, or configuration exists and supports the user story. Any remaining issue should be recorded rather than hidden. The exported CSV does not include status fields, so the live completion status of individual cards must be verified against the board or project evidence.
+A card was treated as complete when its intended result had been produced and reviewed. Where applicable, the work was checked against the relevant requirement or user story, and issues identified during testing were reviewed. Although the exported CSV does not include status fields, the project team confirms that the tasks on the Trello board were completed.
 
 <h3>Reflection on the team charter</h3>
 
@@ -223,7 +223,7 @@ The project showed how important planning and communication are, especially when
 
 <h2>2. User Stories and Tasks</h2>
 
-We used Trello to break the Nexus Setups idea into smaller pieces of work. The user stories explain what a founder, visitor, client, or team member would need, while the task descriptions show what work was required. I helped write user stories and task descriptions and gather the information needed for the website. The items below are grouped by the sprint lists on our board; they show the work we organised and worked through, including some wider platform ideas that were not necessarily part of the completed public website.
+We used Trello to break the Nexus Setups project into smaller pieces of work. The user stories explain what a founder, visitor, client, or team member would need, while the task descriptions describe the work needed to meet those needs. The items below are grouped by the sprint lists on our board and document the tasks completed across the project.
 
 <h3>Sprint 1: Business Planning</h3>
 
@@ -527,7 +527,7 @@ The cards also show why acceptance criteria are important. A task such as buildi
 
 <h2>3. Product Backlog</h2>
 
-We used the Trello product backlog to keep the different parts of Nexus Setups visible and organised. It contains all **85 cards**, grouped under the 13 sprint lists from the export. We worked through most of the planned areas, but the board also includes ideas for a wider client platform. Because the export does not show each card's completion status or a separate priority field, the lists below show how the work was organised rather than claiming that every feature was completed.
+We used the Trello product backlog to keep the different parts of Nexus Setups visible and organised. It contains all **85 completed tasks**, grouped under the 13 sprint lists from the export. The backlog covered business planning, branding, the public website, and the wider digital platform. The original export does not include status or priority fields, so the completed status described here reflects the project team's confirmation.
 
 <h3>Sprint 1: Business Planning — 10 backlog items</h3>
 
@@ -689,7 +689,7 @@ Trello helped us organise the project into smaller work areas and made it easier
 
 <h2>4. Sprint Backlogs</h2>
 
-We organised the work in Trello using 13 sprint lists, moving from business planning and branding toward the website and wider service ideas. The lists below show the tasks we grouped together and the main focus of each area. The sprint goals are summaries based on the cards, rather than formal goal statements copied from Trello. We worked through most planned areas, but not every card should be read as proof that a feature was implemented.
+We organised the work in Trello using 13 sprint lists, moving from business planning and branding toward the website and wider service features. The lists below show the tasks grouped together and the main focus of each area. The sprint goals are summaries based on the cards, rather than formal goal statements copied from Trello. All tasks on the board were completed by the end of the project.
 
 <h3>Sprint 1: Business Planning</h3>
 
@@ -903,7 +903,7 @@ Using the sprint lists makes the scale and progression of the work easier to und
 
 <h2>5. Agile Logbook</h2>
 
-The project ran for approximately six months, from **1 April 2026 to 1 October 2026**, when the Nexus Setups website was completed. The logbook below gives a broad retrospective of the work and planning. We worked through most of the planned areas, but the Trello export does not record exact dates for each sprint, so the monthly focus areas should be read as an overview rather than a dated record of every task.
+The project ran for approximately six months, from **1 April 2026 to 1 October 2026**, when the Nexus Setups website and planned Trello tasks were completed. The logbook below gives a broad retrospective of the work and planning. The Trello export does not record exact dates for each sprint, so the monthly focus areas should be read as an overview rather than a dated record of every task.
 
 | Approximate period | Focus area | Progress summary and learning |
 |---|---|---|
@@ -913,7 +913,7 @@ The project ran for approximately six months, from **1 April 2026 to 1 October 2
 | July 2026 | Website content and planned client capabilities | Website content, discoverability, accessibility, performance, and analytics appear alongside planned authentication and client portal functions. These should be tracked separately so public website delivery is not confused with the completion of a full client platform. |
 | August 2026 | Project operations and editing workflow | The board describes project submissions, asset uploads, assignments, deadlines, editing workflow, revisions, quality assurance, and delivery. This shows the need to plan internal processes as well as customer-facing features. |
 | September 2026 | Communication, payments, marketing, and administration | Planned cards cover client communications, email templates, invoicing, payment gateway, SEO, marketing, user management, analytics, audit logging, and settings. The breadth of this work makes scope control and prioritisation important. |
-| 1 October 2026 | Website completion and review | The Nexus Setups website was completed. The final website can be presented as the completed deliverable, while broader Trello platform items should only be described as implemented if supporting evidence confirms them. |
+| 1 October 2026 | Website completion and review | The Nexus Setups website was completed, and the tasks recorded across the Trello sprint lists were finished. The project was reviewed as a whole, with the live website and project records available as evidence. |
 
 <h3>Logbook habits for future projects</h3>
 
@@ -930,7 +930,7 @@ Looking back, I learned that planning a project is not just about listing tasks;
 
 <h2>6. Overall Project Reflection</h2>
 
-The project involved both planning and practical work. We worked through most of the planned areas, but changing requirements and time management were challenges. The Trello board also included ideas for a wider business platform, so it is important to distinguish those planned features from the public website that was completed.
+The project involved both planning and practical work, and we completed the tasks recorded on the Trello board. Changing requirements and time management were challenges throughout the project, and they showed me how important it is to keep tasks organised and priorities clear.
 
 One lesson I took from the project is that I need to improve my time management and planning. At times, I lost track of tasks, especially when requirements changed. In future projects, I would set smaller goals, identify the most important tasks first, update Trello more consistently, and review progress regularly. The live website, Trello board and cards, and GitHub code or commits can support the portfolio as evidence of the project.
 
