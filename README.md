@@ -226,7 +226,7 @@ The charter makes the breadth of the Nexus Setups project clearer. It is not onl
 
 <h2>2. User Stories and Tasks</h2>
 
-The following user stories and task descriptions are transcribed from the Trello card descriptions and grouped by their original Trello sprint list. They preserve the intended scope recorded on the board. A story describes the need; the task description states the work proposed to address it.
+We used Trello to break the Nexus Setups idea into smaller pieces of work. The user stories explain what a founder, visitor, client, or team member would need, while the task descriptions show what work was required. I helped write user stories and task descriptions and gather the information needed for the website. The items below are grouped by the sprint lists on our board; they show the work we organised and worked through, including some wider platform ideas that were not necessarily part of the completed public website.
 
 <h3>Sprint 1: Business Planning</h3>
 
@@ -530,7 +530,7 @@ The cards also show why acceptance criteria are important. A task such as buildi
 
 <h2>3. Product Backlog</h2>
 
-The product backlog below contains all **85 Trello cards**, organised by the 13 sprint lists used on the board. The CSV export does not contain a separate priority field or status field, so the sprint order is retained as the board's grouping rather than inventing priority rankings or claiming all items are complete.
+We used the Trello product backlog to keep the different parts of Nexus Setups visible and organised. It contains all **85 cards**, grouped under the 13 sprint lists from the export. We worked through most of the planned areas, but the board also includes ideas for a wider client platform. Because the export does not show each card's completion status or a separate priority field, the lists below show how the work was organised rather than claiming that every feature was completed.
 
 <h3>Sprint 1: Business Planning — 10 backlog items</h3>
 
@@ -688,11 +688,11 @@ The first sprint lists establish business direction and the foundations needed t
 
 <h3>Reflection on the product backlog</h3>
 
-The board gives the project a broad list of work areas and makes the planned scope more visible. Grouping the cards by sprint also helps show how business decisions, visual identity, website delivery, and supporting operations fit together. However, a large backlog can become difficult to manage if priorities, dependencies, and status are not updated. The next improvement would be to rank the items by business value and dependency, confirm which features belong in the initial deliverable, and separate completed website work from future platform improvements.
+Trello helped us organise the project into smaller work areas and made it easier to see how planning, branding, website work, and supporting processes connected. However, changing requirements and limited time made planning difficult at times. I learned that I need to review the board more often and set clearer priorities so I do not lose track of tasks. In future, I would keep the backlog focused on what matters most for the current deliverable and move future platform ideas into a separate list.
 
 <h2>4. Sprint Backlogs</h2>
 
-The sprint backlogs below preserve the original 13 Trello list names and list the tasks that were placed in each one. Sprint goals are summaries of the intent of those cards, not separately recorded dates or formal sprint-goal text from the CSV. The export contains no sprint start dates, due dates, member assignments, or completion statuses.
+We organised the work in Trello using 13 sprint lists, moving from business planning and branding toward the website and wider service ideas. The lists below show the tasks we grouped together and the main focus of each area. The sprint goals are summaries based on the cards, rather than formal goal statements copied from Trello. We worked through most planned areas, but not every card should be read as proof that a feature was implemented.
 
 <h3>Sprint 1: Business Planning</h3>
 
